@@ -1,2 +1,21 @@
 IT115 Group 5 Story.
-This is my initial commit to the Repository.
+
+Uncle Shelby's ABZs
+- a primer for young minds
+by Shel Silverstein
+
+------------------------
+
+A is for apple
+
+See the nice green apple.
+MMMM Good.
+How many nice green apples can you eat?
+Make a circle around the number of nice 
+green little apples you ate today.
+
+1 2 3 4 7 12 26 38 57 83 91 116 
+
+------------------------
+
+
